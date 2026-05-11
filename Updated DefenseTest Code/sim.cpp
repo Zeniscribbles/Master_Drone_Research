@@ -260,7 +260,7 @@ void Sim::create_robot(Vector2f s, b2Vec2 v, b2Color c, int name, float time)
         r->attack_k_trigger = 3;
     }
 
-    robots.push_back(r);
+    robots.push_back(r);cf
 }
 
 
